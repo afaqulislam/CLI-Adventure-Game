@@ -1,5 +1,5 @@
 {
-  "name": "cli-adventure-game",
+  "name": "aui-cli-adventure-game",
   "version": "1.0.0",
   "description": "This Is A CLI Based Adventure Game Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-adventure-game'",
   "main": "main.js",
